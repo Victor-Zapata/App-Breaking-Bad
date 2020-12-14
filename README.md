@@ -2,6 +2,9 @@ Enlace de Proyecto
 
 https://goofy-sinoussi-8d435f.netlify.app/
 
+Interfaz con los personajes de las series Breaking Bad y Better Call Saul
+Se pueden realizar consultas a una API que trae la tarjeta con los principales datos de cada personaje.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
