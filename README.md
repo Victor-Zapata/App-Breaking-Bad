@@ -1,4 +1,4 @@
-Deployment
+Project demo
 
 https://goofy-sinoussi-8d435f.netlify.app/
 
